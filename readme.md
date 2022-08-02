@@ -1,0 +1,4 @@
+# github
+
+- Git init
+- add
